@@ -48,7 +48,7 @@
     "lint-staged": "4.3.0",
     "nyc": "11.3.0",
     "prettier": "1.7.4",
-    "request": "2.83.0",
+    "request": "2.88.0",
     "request-promise": "4.2.2",
     "resumer": "0.0.0",
     "test-listen": "1.0.2",
