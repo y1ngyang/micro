@@ -44,7 +44,7 @@
     "ava": "0.23.0",
     "coveralls": "3.0.0",
     "eslint-config-prettier": "2.7.0",
-    "husky": "0.14.3",
+    "husky": "4.0.10",
     "lint-staged": "4.3.0",
     "nyc": "11.3.0",
     "prettier": "1.7.4",
