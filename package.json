@@ -53,7 +53,7 @@
     "resumer": "0.0.0",
     "test-listen": "1.0.2",
     "then-sleep": "1.0.1",
-    "xo": "0.18.2"
+    "xo": "0.29.1"
   },
   "dependencies": {
     "content-type": "1.0.4",
