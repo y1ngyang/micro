@@ -10,7 +10,7 @@
  "license": "ISC",
  "dependencies": {
    "micro": "latest",
-   "socket.io": "^1.7.3"
+   "socket.io": "^3.0.0"
  }
 }
       
